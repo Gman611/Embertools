@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "EmberTools",
+    "slug": "embertools",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "embertools",
+    "userInterfaceStyle": "automatic",
+    "android": {
+      "package": "com.gerriekayser.embertools",
+      "versionCode": 1,
+      "targetSdkVersion": 35,
+      "permissions": []
+    },
+    "extra": {
+      "apiUrl": "https://YOUR_BACKEND_URL_HERE"
+    }
+  }
+}
